@@ -1,0 +1,23 @@
+1.创建一个新的项目目录并初始化Node.js项目：(终端)
+mkdir myproject
+cd myproject
+npm init -y
+
+2.安装Express框架（终端）
+npm install express
+
+3.Mongoose插件，这是一个MongoDB对象模型（ODM）库，用于在Node.js中与MongoDB交互；
+npm install mongoose
+
+4.链接MongoDB，并且创建一个db.js
+
+5.展示数据结构，创建user。js
+
+6.在express创建crud端点，在server.js
+
+7.在app.js 尝试设置express服务器
+（确定安装node.js
+npm init -y
+npm install express mongoose）
+8.在应用程序关闭时，断开与MongoDB的连接
+在exit.js
